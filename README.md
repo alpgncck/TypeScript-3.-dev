@@ -1,3 +1,5 @@
+## Aşama 1 - Runtime Çıktılı Sorular
+
 Soru 1: 
 
 İki farklı tipte diziyi tek bir dizide topladım. Spread operatörü sayesinde hem diziler birleştirildi hem de tip güvenliği sağlandı.
@@ -30,7 +32,7 @@ Kullanıcı verilerini kısmi olarak güncellemek için `Partial` ve `Readonly` 
 Soru 10: 
 `MathHelper` sınıfında `static` alan ve metodlar tanımladım. Sınıfı new’lemeden direkt kullandım.
 
-## Runtime Çıktılı Sorular
+## Aşama - 2 Runtime Çıktılı Sorular
 
  Soru 11: 
 `UnwrapPromise<T>` conditional type ile Promise içindeki tipi çıkardım. Eğer tip Promise değilse kendisini döndürüyor.
